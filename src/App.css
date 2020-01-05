@@ -311,5 +311,9 @@ input{
   .banner div h1{
     display: none;
   }
+
+  .footer a{
+    margin-left: 20px;
+  }
 }
 
