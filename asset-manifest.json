@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Tech-Thread/static/css/main.5cb544af.chunk.css",
+    "main.css": "/React-Tech-Thread/static/css/main.0fa29bb7.chunk.css",
     "main.js": "/React-Tech-Thread/static/js/main.dbe306b1.chunk.js",
     "main.js.map": "/React-Tech-Thread/static/js/main.dbe306b1.chunk.js.map",
     "runtime-main.js": "/React-Tech-Thread/static/js/runtime-main.8d5e5715.js",
@@ -8,9 +8,9 @@
     "static/js/2.e40fc41b.chunk.js": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js",
     "static/js/2.e40fc41b.chunk.js.map": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js.map",
     "index.html": "/React-Tech-Thread/index.html",
-    "precache-manifest.c1ad250a14ab8f2dcf355ebef3aa9208.js": "/React-Tech-Thread/precache-manifest.c1ad250a14ab8f2dcf355ebef3aa9208.js",
+    "precache-manifest.564a02006378ad21bbbd060f563a11b4.js": "/React-Tech-Thread/precache-manifest.564a02006378ad21bbbd060f563a11b4.js",
     "service-worker.js": "/React-Tech-Thread/service-worker.js",
-    "static/css/main.5cb544af.chunk.css.map": "/React-Tech-Thread/static/css/main.5cb544af.chunk.css.map",
+    "static/css/main.0fa29bb7.chunk.css.map": "/React-Tech-Thread/static/css/main.0fa29bb7.chunk.css.map",
     "static/js/2.e40fc41b.chunk.js.LICENSE": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js.LICENSE",
     "static/media/AlienWebsite.png": "/React-Tech-Thread/static/media/AlienWebsite.9120a600.png",
     "static/media/AppGithub.png": "/React-Tech-Thread/static/media/AppGithub.8e6769b7.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.8d5e5715.js",
     "static/js/2.e40fc41b.chunk.js",
-    "static/css/main.5cb544af.chunk.css",
+    "static/css/main.0fa29bb7.chunk.css",
     "static/js/main.dbe306b1.chunk.js"
   ]
 }
