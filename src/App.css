@@ -1,38 +1,307 @@
-.App {
+*{
+  font-family: Garamond;
+}
+
+body{
+  background-color: lightgray;
+}
+
+p{
+  font-size: 18px;
+}
+
+.social{
+  background-color: black;
+}
+
+.social a i{
+  color: white;
+  padding: 12px 16px;
+  font-size: 15px;
+  text-decoration: none;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.social a i:hover{
+  color: black;
+  background: rgba(255, 255, 255, 0.7);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header{
+  padding: 50px;
+  background-color: white;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header h1, .header p{
+  text-align: center;
+}
+
+.header h1{
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+.header p{
+  font-weight: 500;
+}
+
+.banner{
+  max-height: 350px;
+  overflow: hidden;
+  position: relative;
+}
+
+.banner img{
+  width: 100%;
+  filter: grayscale(80%); 
+}
+
+.banner div{
+  margin: 0px 50px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.banner div h1{
+  font-size: 36px;
+  text-transform: uppercase;
+  align-content: center;
+  color: white;
+  text-shadow: 2px 2px grey;
+}
+
+.banner div a{
+  color: black;
+  padding: 10px 50px;
+  background-color: snow;
+  opacity: 0.8;
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: bold;
+  transition: 1s;
+}
+
+.banner div a:hover{
+  opacity: 1.0;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.card{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  padding: 50px 25px;
+  background-color: white;
+  min-height: 10px;
+  margin-bottom: 20px;
+}
+
+.card div{
+  flex-basis: 50%;
+}
+
+.card a{
+  display: inline-block;
+  font-size: 1.1em;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.card a i{
+  font-size: 1em;
+  margin-right: 10px;
+}
+
+.card a:hover{
+  color: black;
+  background-color: lightgrey;
+}
+
+.card div img{
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+
+main{
+  display: flex;
+  padding: 20px;
+}
+
+summary{
+  flex-basis: 60%;
+}
+
+aside{
+  flex-basis: 40%;
+}
+
+.about{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+}
+
+.about img{
+  width: 100%;
+  filter: grayscale(80%);
+}
+
+.about div{
+  padding: 0px 20px 20px 20px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.renders{
+  color: white;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.renders h2{
+  background-color: black;
+  margin: 0px;
+  padding: 20px;
+}
+
+.renders img{
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#mc_embed_signup{
+  margin-left: 20px;
+}
+
+#mc_embed_signup_scroll{
+  padding: 10px 20px;
+  background-color: white;
+}
+
+#mc_embed_signup h2{
+  color: white;
+  background-color: black;
+  margin: 0px;
+  padding: 20px;
+}
+
+input{
+  font-size: 16px;
+  box-sizing:border-box;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  outline:none;
+}
+
+.response{
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.btn{
+  color:white;
+  background-color: #f44336;
+}
+
+.btn:hover{
+  background-color: darkgrey;
+  cursor: pointer;
+}
+
+.btn:active{
+  background-color: grey;
+}
+
+.footer{
+  height: 100px;
+  background-color: darkgrey;
+  position: relative;
+}
+
+.footer a{
+  font-size: 1.1em;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 40px;
+  border-radius: 10px; 
+}
+
+.footer a:hover{
+  color: black;
+  background-color: lightgrey;
+}
+
+.footer i{
+  font-size: 1em;
+  margin-right: 10px;
+}
+
+.image-swipe{
+  position: relative;
+  background-color: white;
+  padding: 10px 0px;
+  padding-top: 75%; /* 1:1 Aspect Ratio */
+}
+
+.arrow{
+  font-size: 1.5em;
+  padding: 20px;
+  color: black;
+  border-radius: 50%;
+  position: absolute; 
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.arrow:hover{
+  cursor: pointer;
+  background-color: lightgrey;
+}
+
+.left{
+  left:10px;
+}
+
+.right{
+  right: 10px;
+}
+
+@media screen and (max-width: 1000px){
+  main{
+    display: block;
   }
-  to {
-    transform: rotate(360deg);
+  .about{
+    margin-left: 0px;
+  }
+  .renders{
+    margin-left: 0px;
+  }
+  #mc_embed_signup{
+    margin-left: 0px;
   }
 }
+
+@media screen and (max-width: 600px){
+  .card{
+    display: block;
+  }
+}
+
