@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.5cb544af.chunk.css",
+    "main.js": "/react-app/static/js/main.7fa562a7.chunk.js",
+    "main.js.map": "/react-app/static/js/main.7fa562a7.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.4727a4a3.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.4727a4a3.js.map",
+    "static/js/2.e40fc41b.chunk.js": "/react-app/static/js/2.e40fc41b.chunk.js",
+    "static/js/2.e40fc41b.chunk.js.map": "/react-app/static/js/2.e40fc41b.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.50595d65abc2f496a746d236542d91da.js": "/react-app/precache-manifest.50595d65abc2f496a746d236542d91da.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.5cb544af.chunk.css.map": "/react-app/static/css/main.5cb544af.chunk.css.map",
+    "static/js/2.e40fc41b.chunk.js.LICENSE": "/react-app/static/js/2.e40fc41b.chunk.js.LICENSE",
+    "static/media/AlienWebsite.png": "/react-app/static/media/AlienWebsite.9120a600.png",
+    "static/media/AppGithub.png": "/react-app/static/media/AppGithub.8e6769b7.png",
+    "static/media/City.png": "/react-app/static/media/City.1f2b1583.png",
+    "static/media/CodingBanner.png": "/react-app/static/media/CodingBanner.fbdf42b9.png",
+    "static/media/ComingSoon.jpg": "/react-app/static/media/ComingSoon.1de58508.jpg",
+    "static/media/CraterLakeGame.png": "/react-app/static/media/CraterLakeGame.26d987a5.png",
+    "static/media/Donut.png": "/react-app/static/media/Donut.c8b8f909.png",
+    "static/media/Technology.jpg": "/react-app/static/media/Technology.143b9171.jpg",
+    "static/media/Towel.png": "/react-app/static/media/Towel.1fcb9eae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4727a4a3.js",
+    "static/js/2.e40fc41b.chunk.js",
+    "static/css/main.5cb544af.chunk.css",
+    "static/js/main.7fa562a7.chunk.js"
+  ]
+}
