@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Tech-Thread/static/css/main.43566b95.chunk.css",
-    "main.js": "/React-Tech-Thread/static/js/main.2d9fa35a.chunk.js",
-    "main.js.map": "/React-Tech-Thread/static/js/main.2d9fa35a.chunk.js.map",
+    "main.js": "/React-Tech-Thread/static/js/main.9af5d9dc.chunk.js",
+    "main.js.map": "/React-Tech-Thread/static/js/main.9af5d9dc.chunk.js.map",
     "runtime-main.js": "/React-Tech-Thread/static/js/runtime-main.22fd4e45.js",
     "runtime-main.js.map": "/React-Tech-Thread/static/js/runtime-main.22fd4e45.js.map",
     "static/js/2.58f39914.chunk.js": "/React-Tech-Thread/static/js/2.58f39914.chunk.js",
     "static/js/2.58f39914.chunk.js.map": "/React-Tech-Thread/static/js/2.58f39914.chunk.js.map",
     "index.html": "/React-Tech-Thread/index.html",
-    "precache-manifest.2d631ed46fb4d1182cfdfd84390b8af7.js": "/React-Tech-Thread/precache-manifest.2d631ed46fb4d1182cfdfd84390b8af7.js",
+    "precache-manifest.1657afed6abfb898926b827f91b0d5bc.js": "/React-Tech-Thread/precache-manifest.1657afed6abfb898926b827f91b0d5bc.js",
     "service-worker.js": "/React-Tech-Thread/service-worker.js",
     "static/css/main.43566b95.chunk.css.map": "/React-Tech-Thread/static/css/main.43566b95.chunk.css.map",
     "static/js/2.58f39914.chunk.js.LICENSE": "/React-Tech-Thread/static/js/2.58f39914.chunk.js.LICENSE",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.22fd4e45.js",
     "static/js/2.58f39914.chunk.js",
     "static/css/main.43566b95.chunk.css",
-    "static/js/main.2d9fa35a.chunk.js"
+    "static/js/main.9af5d9dc.chunk.js"
   ]
 }
