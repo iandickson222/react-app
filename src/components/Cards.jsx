@@ -10,7 +10,7 @@ const Cards = () => {
             <div className="card">
                 <div>
                     <h1>3D MODELS</h1>
-                    <p>Professionally done 3D models.</p>
+                    <p>Check out a few of my 3D models!</p>
                     <a href="https://www.artstation.com/iandickson222"><i className="fa fa-th"></i>View My Works</a>
                 </div>
                 <div>
@@ -21,7 +21,7 @@ const Cards = () => {
             <div className="card">
                 <div>
                     <h1>GITHUB APPS</h1>
-                    <p>Check out my growing collection of apps.</p>
+                    <p>Check out my growing collection of apps!</p>
                     <a href="https://github.com/iandickson222?tab=repositories"><i className="fa fa-th"></i>View My Works</a>
                 </div>
                 <div>
