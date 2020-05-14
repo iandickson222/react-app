@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e020c4a8cb46c85ed9a5a6b22173228a",
+    "revision": "1e8c434037a27a0e5c8e9191e90e474d",
     "url": "/React-Tech-Thread/index.html"
   },
   {
-    "revision": "9b216512340cfdc8b25b",
-    "url": "/React-Tech-Thread/static/css/main.1765483e.chunk.css"
+    "revision": "bf2115a849d55d2e90c0",
+    "url": "/React-Tech-Thread/static/css/main.9039dfa9.chunk.css"
   },
   {
-    "revision": "4197d5a803332b4174ba",
-    "url": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js"
+    "revision": "4a4648fa088cda0e790e",
+    "url": "/React-Tech-Thread/static/js/2.58f39914.chunk.js"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js.LICENSE"
+    "revision": "85b12af60ddf57ea6860c3b16407fd52",
+    "url": "/React-Tech-Thread/static/js/2.58f39914.chunk.js.LICENSE"
   },
   {
-    "revision": "9b216512340cfdc8b25b",
-    "url": "/React-Tech-Thread/static/js/main.dbe306b1.chunk.js"
+    "revision": "bf2115a849d55d2e90c0",
+    "url": "/React-Tech-Thread/static/js/main.2d9fa35a.chunk.js"
   },
   {
-    "revision": "378bf694a5f6a5517df2",
-    "url": "/React-Tech-Thread/static/js/runtime-main.8d5e5715.js"
+    "revision": "288cfeb38981f99b4838",
+    "url": "/React-Tech-Thread/static/js/runtime-main.22fd4e45.js"
   },
   {
     "revision": "9120a600c36d9643fac1e0c04ca218cc",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Tech-Thread/static/media/City.1f2b1583.png"
   },
   {
-    "revision": "fbdf42b9f8da9d362bb977635960ab1e",
-    "url": "/React-Tech-Thread/static/media/CodingBanner.fbdf42b9.png"
+    "revision": "926711a51fd5bd62807335fcd68f353f",
+    "url": "/React-Tech-Thread/static/media/CodingBanner.926711a5.png"
   },
   {
-    "revision": "1de58508e295cb9da3c796a87dc6f2bc",
-    "url": "/React-Tech-Thread/static/media/ComingSoon.1de58508.jpg"
+    "revision": "5a05ef400b727efedb8f793ec4517a4a",
+    "url": "/React-Tech-Thread/static/media/CosmicSpikes.5a05ef40.png"
   },
   {
     "revision": "26d987a5f40407aeda8d47ef3aa29575",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Tech-Thread/static/media/Donut.c8b8f909.png"
   },
   {
-    "revision": "143b9171808fb938c0bd594e4f1f6ede",
-    "url": "/React-Tech-Thread/static/media/Technology.143b9171.jpg"
+    "revision": "cf3996e7ca0586a9ab5c7db1f49a4e6a",
+    "url": "/React-Tech-Thread/static/media/Graduation.cf3996e7.jpg"
   },
   {
     "revision": "1fcb9eae6dc0373ba23ee65b2148e681",

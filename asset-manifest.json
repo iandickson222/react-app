@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/React-Tech-Thread/static/css/main.1765483e.chunk.css",
-    "main.js": "/React-Tech-Thread/static/js/main.dbe306b1.chunk.js",
-    "main.js.map": "/React-Tech-Thread/static/js/main.dbe306b1.chunk.js.map",
-    "runtime-main.js": "/React-Tech-Thread/static/js/runtime-main.8d5e5715.js",
-    "runtime-main.js.map": "/React-Tech-Thread/static/js/runtime-main.8d5e5715.js.map",
-    "static/js/2.e40fc41b.chunk.js": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js",
-    "static/js/2.e40fc41b.chunk.js.map": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js.map",
+    "main.css": "/React-Tech-Thread/static/css/main.9039dfa9.chunk.css",
+    "main.js": "/React-Tech-Thread/static/js/main.2d9fa35a.chunk.js",
+    "main.js.map": "/React-Tech-Thread/static/js/main.2d9fa35a.chunk.js.map",
+    "runtime-main.js": "/React-Tech-Thread/static/js/runtime-main.22fd4e45.js",
+    "runtime-main.js.map": "/React-Tech-Thread/static/js/runtime-main.22fd4e45.js.map",
+    "static/js/2.58f39914.chunk.js": "/React-Tech-Thread/static/js/2.58f39914.chunk.js",
+    "static/js/2.58f39914.chunk.js.map": "/React-Tech-Thread/static/js/2.58f39914.chunk.js.map",
     "index.html": "/React-Tech-Thread/index.html",
-    "precache-manifest.ca71dd2cc442970db18eb0f6ac3a74d2.js": "/React-Tech-Thread/precache-manifest.ca71dd2cc442970db18eb0f6ac3a74d2.js",
+    "precache-manifest.2bec8eb0a690b9fb06c3c749ce34bc3f.js": "/React-Tech-Thread/precache-manifest.2bec8eb0a690b9fb06c3c749ce34bc3f.js",
     "service-worker.js": "/React-Tech-Thread/service-worker.js",
-    "static/css/main.1765483e.chunk.css.map": "/React-Tech-Thread/static/css/main.1765483e.chunk.css.map",
-    "static/js/2.e40fc41b.chunk.js.LICENSE": "/React-Tech-Thread/static/js/2.e40fc41b.chunk.js.LICENSE",
+    "static/css/main.9039dfa9.chunk.css.map": "/React-Tech-Thread/static/css/main.9039dfa9.chunk.css.map",
+    "static/js/2.58f39914.chunk.js.LICENSE": "/React-Tech-Thread/static/js/2.58f39914.chunk.js.LICENSE",
     "static/media/AlienWebsite.png": "/React-Tech-Thread/static/media/AlienWebsite.9120a600.png",
     "static/media/AppGithub.png": "/React-Tech-Thread/static/media/AppGithub.8e6769b7.png",
     "static/media/City.png": "/React-Tech-Thread/static/media/City.1f2b1583.png",
-    "static/media/CodingBanner.png": "/React-Tech-Thread/static/media/CodingBanner.fbdf42b9.png",
-    "static/media/ComingSoon.jpg": "/React-Tech-Thread/static/media/ComingSoon.1de58508.jpg",
+    "static/media/CodingBanner.png": "/React-Tech-Thread/static/media/CodingBanner.926711a5.png",
+    "static/media/CosmicSpikes.png": "/React-Tech-Thread/static/media/CosmicSpikes.5a05ef40.png",
     "static/media/CraterLakeGame.png": "/React-Tech-Thread/static/media/CraterLakeGame.26d987a5.png",
     "static/media/Donut.png": "/React-Tech-Thread/static/media/Donut.c8b8f909.png",
-    "static/media/Technology.jpg": "/React-Tech-Thread/static/media/Technology.143b9171.jpg",
+    "static/media/Graduation.jpg": "/React-Tech-Thread/static/media/Graduation.cf3996e7.jpg",
     "static/media/Towel.png": "/React-Tech-Thread/static/media/Towel.1fcb9eae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d5e5715.js",
-    "static/js/2.e40fc41b.chunk.js",
-    "static/css/main.1765483e.chunk.css",
-    "static/js/main.dbe306b1.chunk.js"
+    "static/js/runtime-main.22fd4e45.js",
+    "static/js/2.58f39914.chunk.js",
+    "static/css/main.9039dfa9.chunk.css",
+    "static/js/main.2d9fa35a.chunk.js"
   ]
 }
