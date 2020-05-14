@@ -6,7 +6,6 @@ import Banner from './components/Banner'
 import Cards from './components/Cards'
 import About from './components/About'
 import Renders from './components/Renders'
-import Subscribe from './components/Subscribe'
 import Footer from './components/Footer'
 
 const App  = () => {
@@ -23,7 +22,6 @@ const App  = () => {
           <aside>
             <About/>
             <Renders/>
-            <Subscribe/>
           </aside>
         </main>
         <footer><Footer/></footer> 
