@@ -177,22 +177,6 @@ aside{
   transform: translate(-50%, -50%);
 }
 
-#mc_embed_signup{
-  margin-left: 20px;
-}
-
-#mc_embed_signup_scroll{
-  padding: 10px 20px;
-  background-color: white;
-}
-
-#mc_embed_signup h2{
-  color: white;
-  background-color: black;
-  margin: 0px;
-  padding: 20px;
-}
-
 input{
   font-size: 16px;
   box-sizing:border-box;
