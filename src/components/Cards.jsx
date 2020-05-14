@@ -1,7 +1,7 @@
 import React from 'react'
 import AlienWebsite from '../images/AlienWebsite.png'
 import AppGithub from '../images/AppGithub.png'
-import ComingSoon from '../images/ComingSoon.jpg'
+import CosmicSpikes from '../images/CosmicSpikes.png'
 
 
 const Cards = () => {
@@ -29,14 +29,14 @@ const Cards = () => {
                 </div>
             </div>
             
-            <div className="card" id='mobile'>
+            <div className="card">
                 <div>
                     <h1>MOBILE GAMES</h1>
-                    <p>Soon to be released to the Play Store.</p>
-                    <a href="#mobile"><i className="fa fa-th"></i>View My Works</a>
+                    <p>Check out my new release!</p>
+                    <a href="https://play.google.com/store/apps/details?id=com.IanDickson.CosmicSpikes"><i className="fa fa-th"></i>View My Works</a>
                 </div>
                 <div>
-                    <img src={ComingSoon} alt="Coming Soon"/>
+                    <img src={CosmicSpikes} alt="Cosmic Spikes"/>
                 </div>
             </div>
         </div>

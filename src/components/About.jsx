@@ -1,5 +1,5 @@
 import React from 'react'
-import Technology from '../images/Technology.jpg'
+import Graduation from '../images/Graduation.jpg'
 
 const About = () => {
     return (
@@ -8,10 +8,11 @@ const About = () => {
             <div>
                 <h2>About Me</h2>
                 <p> 
-                    My name is Ian Dickson.
-                    I develop software, mechanical products, design games, and 3D model.
-                    I program primarly in C#, Python, and PHP. I am familiar with many aspects of 
-                    software and mechanical design including AI, machining, welding, wood working, and much more.
+                    My name is Ian Dickson. 
+                    I am a engineer, a developer, a graphic designer, and much more. 
+                    I enjoy taking on my own personal projects when I am not helping others to achieve theirs. 
+                    This site is a side project of mine to help me develope my web development skills.
+                    Also, make sure to check out my new game Cosmic Spikes! 
                 </p>
             </div>
             
